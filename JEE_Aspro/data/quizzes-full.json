@@ -1,0 +1,33 @@
+{
+    "q001": {
+      "title": "Ohm's Law - Basics",
+      "questions": [
+        {
+          "question": "What is the unit of resistance?",
+          "options": ["Volt", "Ampere", "Ohm", "Watt"],
+          "answer": 2
+        },
+        {
+          "question": "What does V = IR stand for?",
+          "options": ["Ohm's Law", "Faraday's Law", "Newton's Law", "Kirchhoff's Law"],
+          "answer": 0
+        }
+      ]
+    },
+    "q002": {
+      "title": "Quadratic Equations Practice",
+      "questions": [
+        {
+          "question": "What is the discriminant of x² - 4x + 4?",
+          "options": ["0", "4", "8", "16"],
+          "answer": 0
+        },
+        {
+          "question": "Roots of x² - 5x + 6 = 0 are?",
+          "options": ["2 and 3", "1 and 6", "3 and 4", "None"],
+          "answer": 0
+        }
+      ]
+    }
+  }
+  

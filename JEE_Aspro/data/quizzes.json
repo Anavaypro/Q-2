@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+      {
+        "id": "q001",
+        "title": "Ohm's Law - Basics",
+        "subject": "Physics"
+      },
+      {
+        "id": "q002",
+        "title": "Quadratic Equations Practice",
+        "subject": "Math"
+      }
+    ]
+  }
+  
